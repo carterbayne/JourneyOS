@@ -1,0 +1,21 @@
+ilmerge 
+C:\ILMerge01\Navicure.exe
+C:\ILMerge01\DevExpress.BonusSkins.v10.1.dll
+C:\ILMerge01\DevExpress.Charts.v10.1.Core.dll
+C:\ILMerge01\DevExpress.Data.v10.1.dll
+C:\ILMerge01\DevExpress.Utils.v10.1.dll
+C:\ILMerge01\DevExpress.XtraBars.v10.1.dll
+C:\ILMerge01\DevExpress.XtraCharts.v10.1.dll
+C:\ILMerge01\DevExpress.XtraCharts.v10.1.UI.dll
+C:\ILMerge01\DevExpress.XtraEditors.v10.1.dll
+C:\ILMerge01\DevExpress.XtraGrid.v10.1.dll
+C:\ILMerge01\DevExpress.XtraLayout.v10.1.dll
+C:\ILMerge01\DevExpress.XtraNavBar.v10.1.dll
+C:\ILMerge01\DevExpress.XtraTreeList.v10.1.dll
+C:\ILMerge01\Microsoft.Office.Interop.Excel.dll
+C:\ILMerge01\Microsoft.Vbe.Interop.dll
+C:\ILMerge01\office.dll
+/out:C:\ILMerge01\UAAdHoc.exe /target:winexe /ndebug 
+
+
+ilmerge C:\ILMerge01\Navicure.exe C:\ILMerge01\DevExpress.BonusSkins.v10.1.dll C:\ILMerge01\DevExpress.Charts.v10.1.Core.dll C:\ILMerge01\DevExpress.Data.v10.1.dll C:\ILMerge01\DevExpress.Utils.v10.1.dll C:\ILMerge01\DevExpress.XtraBars.v10.1.dll C:\ILMerge01\DevExpress.XtraCharts.v10.1.dll C:\ILMerge01\DevExpress.XtraCharts.v10.1.UI.dll C:\ILMerge01\DevExpress.XtraEditors.v10.1.dll C:\ILMerge01\DevExpress.XtraGrid.v10.1.dll C:\ILMerge01\DevExpress.XtraLayout.v10.1.dll C:\ILMerge01\DevExpress.XtraNavBar.v10.1.dll C:\ILMerge01\DevExpress.XtraTreeList.v10.1.dll C:\ILMerge01\Microsoft.Office.Interop.Excel.dll C:\ILMerge01\Microsoft.Vbe.Interop.dll C:\ILMerge01\office.dll /out:C:\ILMerge01\UAAdHoc.exe /target:winexe /ndebug
